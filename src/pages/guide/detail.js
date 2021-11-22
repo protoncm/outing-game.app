@@ -10,7 +10,8 @@ function Detail(){
     const [selectedGuide, setSelectedGuide] = useState("");
     const opts = {
         height: '390',
-        width: '640',
+        width: '100%',
+        maxWidth: '690'
       };
 
     useEffect(() => {
@@ -30,7 +31,9 @@ function Detail(){
                 ))}
                 </ul>
                 <h2>Example Videos</h2>
-                <YouTube videoId={selectedGuide.youtube} opts={opts} onReady={(e) => e.target.pauseVideo()} />
+                <div style={{ maxWidth: 690}}>
+                    <YouTube videoId={selectedGuide.youtube} opts={opts} onReady={(e) => e.target.pauseVideo()} />
+                </div>
             </article>
         </section>
     );
