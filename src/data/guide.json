@@ -7,6 +7,7 @@
         "description": "Show your drawing skill and see who can guess.",
         "url": "/guide/1",
         "genre": "Easy",
+        "token": "5-6 Token",
         "description_full": [
             "The 16 players are divided into 3 teams according to the letters of the neck tag. They are divided into teams S, W, N, with each team having 5 players, except for the W team having 6 players.",
             "Start playing one team at a time. Starting with Team S, have all team members line up in front of the board. The first player, the leader, approaches the referee. The remaining players turn their backs to the referee.",
@@ -26,6 +27,7 @@
         "description": "You have to remember what your team member say and add one more word!.",
         "url": "/guide/2",
         "genre": "Medium",
+        "token": "12 Token",
         "description_full": [
             "Players match according to the color of the neck tag background (divided into 4 teams of 4 people each).",
             "Start the game one team at a time, 1 round per team, then switch to other teams to play (total 2 rounds).",
@@ -47,7 +49,33 @@
         "description": "Say what sticker you need and listen another team till Bingo.",
         "url": "/guide/3",
         "genre": "Hard",
-        "description_full": "row1\r\nnrow2"
+        "token": "12 Token",
+        "description_full": [
+            "Players match according to the color of the letters of the neck tag (divided into 8 teams, 2 people each) and sit in the order that the judges have provided (No. 1-8).",
+            "No. 1 purple",
+            "No. 2 red",
+            "No. 3 blue",
+            "No. 4 pink",
+            "No. 5 green",
+            "No. 6 black",
+            "No. 7 brown",
+            "No. 8 yellow",
+            "***Play all 3 rounds, find the winning team at 1,2,3, 1 team per round.",
+            "Round 1, each team will receive 1 sheet of Bingo paper, each team will have 25 Bingo paper slots, divided into 5 horizontal, 5 vertical.",
+            "Each team player will receive 1 set of stickers per team (1 set has 28 designs). Must choose 25 types of stickers. Do not duplicate.",
+            "Put all 25 types of stickers picked in the 25 slots of the Bingo paper (attach as you like) without letting other team players see their own team's Bingo paper Token.",
+            "The game will start from random judges picking up stickers. If any team has a sticker that matches the referee randomly draws a cross on that sticker. Then the 1st team (purple) will choose what kind of stickers to get. Followed by team 2. Continue sequentially until 8 teams are complete, then come back to the new 1st team.",
+            "Keep doing this. Until there is a team at Bingo 2 strips, it will be considered a win.",
+            "Round 2 is played like Round 1, but the Bingo paper of this round is given a 16-slot (4x4-slot), the team at Bingo 2 strips is considered to win.",
+            "Round 3 is played like Round 2, Bingo paper with 16 grids (4x4 grids), the team at Bingo 2 strips will be considered to win.",
+            "***In each round, if the team has finished 3 rounds and the team hasn't got Bingo, the token will belong to the referee." ,
+            "For example, in 3 rounds, there is 1 Bingo team, but there is no Bingo, the 2nd team, the referee will receive the Token, the prize amount of the 2nd team (2 Tokens each).",
+            "*** Bingo can be vertical, horizontal, diagonal left, diagonal right",
+            "***The first Bingo team will receive 3 Tokens (2 persons per team = 6 Tokens)",
+            "The 2nd team at Bingo will receive 2 Tokens (2 persons per team = 4 Tokens).",
+            "The 3rd Bingo team will receive 1 Token each (2 people per team = 2 Tokens)."
+        ],
+        "youtube": "sJmsEjA2DzE"
       }  
     ]
     

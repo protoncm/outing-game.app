@@ -19,7 +19,7 @@ const ListItem = ({ item: i }) => {
         </p>
         <div class='card_footer'>
           <div>
-            <span class='badge'>{i.genre}</span>
+            <span class='badge'>{i.token}</span>
           </div>
         </div>
       </div>
