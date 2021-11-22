@@ -1,0 +1,54 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "title": "Word & Draw",
+        "thumbnail": "https://yt3.ggpht.com/hX5qnaKwEh9QIcQIefQ6BFvRplJb2K8LtIpliGSRE9ltzo-_fVWm2evSZziBC9AE5Lo=w1080-rw",
+        "description": "Show your drawing skill and see who can guess.",
+        "url": "/guide/1",
+        "genre": "Easy",
+        "description_full": [
+            "The 16 players are divided into 3 teams according to the letters of the neck tag. They are divided into teams S, W, N, with each team having 5 players, except for the W team having 6 players.",
+            "Start playing one team at a time. Starting with Team S, have all team members line up in front of the board. The first player, the leader, approaches the referee. The remaining players turn their backs to the referee.",
+            "The first player chooses a letter and the word starts with that letter, e.g. choose A, the word might be Apple, and the first player has to draw an Apple in 10 seconds.",
+            "When the drawing is finished, the first player poke calls the second player to turn to look at the picture he drew. and the 2nd player must draw the following in 10 seconds.",
+            "When finished drawing, turn back to poke the 3rd player, keep doing this. Until the last player has to look at the drawing of the previous person. and answer what the picture is. Everyone has 10 seconds to draw and answer questions.",
+            "At the end of the first game, line up, 2nd player loops up first, player 1 loops up to last. to switch game positions.",
+            "When team S has played all 3 words, switch team W and team N to play respectively. Play 3 words per team, repeating 2 rounds (6 words per team in total).",
+            "The team with the most points is the winner and receives 1 token for each player."
+        ],
+        "youtube": "8Y1aOb993aY"
+      } ,
+      {
+        "id": 2,
+        "title": "Word Memory",
+        "thumbnail": "https://api.time.com/wp-content/uploads/2015/03/memory.jpg",
+        "description": "You have to remember what your team member say and add one more word!.",
+        "url": "/guide/2",
+        "genre": "Medium",
+        "description_full": [
+            "Players match according to the color of the neck tag background (divided into 4 teams of 4 people each).",
+            "Start the game one team at a time, 1 round per team, then switch to other teams to play (total 2 rounds).",
+            "The order of play is yellow -> blue -> pink -> green.",
+            "team that has played select the label to randomly play categories. For example, if a \"Color\" category is randomly selected, it means that all players have to say the name of the color. Starting from the 1st player tells \"red\" -> the 2nd player has to tell \"red yellow\" -> the 3rd player has to tell \"red yellow green\" like this, keep repeating.",
+            "There is a play time of 1 minute/round. When the time is up, points will be awarded according to the number of words successfully spoken. *** Team friends do not tell each other. If your friend can't remember the words dumb allowed.",
+            "At the end of the first team, the second team continues the same way. Start by choosing a random label. Keep repeating this loop until each team completes 2 rounds.",
+            "Combine the points that the team has scored in both rounds and the team with the most points wins.",
+            "***There is a winning team 1st and 2nd (2 teams only)",
+            "The 1st winning team will receive 2 Tokens (4 people per team = 8 Tokens).",
+            "The 2nd winning team will receive 1 Token each (4 people per team = 4 Tokens)."
+        ],
+        "youtube": "X4RwHHeM1Kk"
+      }  
+      ,     {
+        "id": 3,
+        "title": "Bingo",
+        "thumbnail": "https://img.freepik.com/free-vector/bingo-lotto-game-balls-lottery-cards-with-lucky-numbers_8071-2352.jpg?size=626&ext=jpg",
+        "description": "Say what sticker you need and listen another team till Bingo.",
+        "url": "/guide/3",
+        "genre": "Hard",
+        "description_full": "row1\r\nnrow2"
+      }  
+    ]
+    
+}
