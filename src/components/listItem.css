@@ -98,3 +98,16 @@
 .heart_icon:hover {
   color: #fff;
 }
+
+.game_thumbnail {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  margin-bottom: 0;
+  cursor: pointer;
+}
+.game_title{
+  text-align: center;
+  color: #fff;
+  font-size: large;
+}

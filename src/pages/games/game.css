@@ -1,0 +1,8 @@
+.navigation{
+    list-style: "inline";
+    list-style-type: decimal;
+}
+.navigation a {
+    color: #aaa;
+    font-family: var(--font-primary);
+}

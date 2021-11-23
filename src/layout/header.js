@@ -37,7 +37,7 @@ const Header = () => {
                 to="games"
                 style={({ isActive }) => (isActive ? activeStyle : undefined)}
               >
-                Game
+                Play
               </NavLink>
             </li>
           </ul>
