@@ -28,15 +28,15 @@ function Home(){
             <h2>Lucky wheel event x2 (Jackpot)</h2>
                 <ul style={{ listStyleType: 'initial', listStylePosition: 'inside' }}>
                     <li>Win good luck, prize money 1000+++</li>
-                    <li>Everyone will have 2 names in the lucky spin wheel each. If the wheel spins to anyone That person wins and receives the big prize money. Grand prize starts at 1000 with added value*</li>
-                    <li>***Can use 2 Tonkens to exchange the right to add one name in the spinning wheel by choosing to turn off one of the friends in the spinning wheel to change to their own name instead.</li>
+                    <li>Everyone will have 2-name-draws put in the lucky spinning wheel. If the wheel spins to anyone’s name, that person wins and receives the big prize money. Grand prize starts at 1000 with added value*</li>
+                    <li>***You can use 2 Tonkens to exchange the right and add your name into the spinning wheel by replacing your name with one of friends’ in the spinning wheel.</li>
                     <li>*Using Tonken to redeem privileges will increase the reward value by 100 baht per time (per 1 right or 2 Tonken).</li>
                 </ul>
             </div>
             <div  style={panel}>
-                 <h2>Bad luck wheel event</h2>
+                 <h2>Win bad luck, get punished for writing a page</h2>
                 <ul style={{ listStyleType: 'initial', listStylePosition: 'inside' }}>
-                    <li>Everyone will have 2 names in the wheel of luck. If the wheel spins to anyone. That person will be punished for writing a page. ***Can use 1 Tonken to exchange for the right to change your name in the spinning wheel 1 name by changing to any friend's name instead of yourself.</li>
+                    <li>Everyone will have 2 names in the wheel of luck. If the wheel spins to anyone. That person will be punished by face drawing.  ***You can use 1 Tonken to exchange the right to delete your name in the spinning wheel by replacing it with one of friends’ in the spinning wheel.</li>
                     <li>*Using Tonken to redeem privileges will add value to give more lucky prizes by 50 baht per time (per 1 right or 1 Tonken).</li>
                 </ul>
             
